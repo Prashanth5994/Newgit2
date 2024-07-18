@@ -15,6 +15,7 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+
 	#feature2020 changes starts here
 	/ Java program to find the sum of positive numbers
 import java.util.Scanner;
@@ -47,4 +48,20 @@ class Main {
 }
 #feature2020 changes end
 	
+
+	#feature201 changes is payment gateway
+	class Main {
+
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
+}
+feature201 changes end
+
 }
